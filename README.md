@@ -1,2 +1,2 @@
 # Blog Builder
-A blog writer
+A Starter pack for MVC architecture in Flask
